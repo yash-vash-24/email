@@ -1,8 +1,8 @@
 # ========================================================
 # INTELLIGENT EMAIL ASSISTANT
 # ========================================================
-# Student: GOPESH AGGARWAL
-# Roll Number: 2301730158
+# Student: Yash Vashisth
+# Roll Number: 2301730149
 # ========================================================
 
 import warnings
