@@ -1,8 +1,8 @@
 # ========================================================
 # INTELLIGENT EMAIL ASSISTANT - STREAMLIT APP
 # ========================================================
-# Student: GOPESH AGGARWAL
-# Roll Number: 2301730158
+# Student: Yash Vashisth
+# Roll Number: 2301730149
 # ========================================================
 
 import streamlit as st
@@ -48,7 +48,7 @@ st.markdown("""
 st.markdown("""
 <div class="header">
     <h1>📧 Intelligent Email Assistant</h1>
-    <p class="student-info">Created by: GOPESH AGGARWAL</p>
+    <p class="student-info">Created by: Yash Vashisth</p>
     <p class="roll-number">Roll Number: 2301730158</p>
 </div>
 """, unsafe_allow_html=True)
@@ -311,7 +311,7 @@ with tab4:
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: gray; font-size: 12px;">
-    <p>Intelligent Email Assistant | GOPESH AGGARWAL (2301730158)</p>
+    <p>Intelligent Email Assistant | Yash Vashisth (2301730158)</p>
     <p>Powered by Hugging Face & Transformers</p>
 </div>
 """, unsafe_allow_html=True)
