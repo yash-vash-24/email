@@ -41,8 +41,8 @@ Python • Hugging Face Transformers • LangChain • Streamlit • IMAP/SMTP
 
 ## Author
 
-**Name:** GOPESH AGGARWAL
-**Roll Number:** 2301730158
+**Name:** Yash Vashsith
+**Roll Number:** 2301730149
 **Project:** Intelligent Email Assistant
 **Date:** 2024-2025
 
